@@ -1,4 +1,4 @@
-# SC_225a
+# Sena Cinar
 
 This is my repo for BMS225A - Data Science. My work is organized as follows:
 
